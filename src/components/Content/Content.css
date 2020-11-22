@@ -1,4 +1,7 @@
+
+
 .main-content{
+    overflow: hidden;
     background-color: #F9F8FD;
   
 }
@@ -15,3 +18,20 @@
     border: none !important;
     padding-left:0 ;
 }
+
+.card-dimentions{
+    width:30em;
+    height:25em;
+}
+
+.doublecard{
+    width:60em;
+    height:25em;
+}
+
+@media only screen and (max-width: 1480px) {
+    .doublecard{
+        width:30em;
+        height:25em;
+    }
+  }

@@ -3,7 +3,7 @@ import Graph from "../Graph/Graph"
 
 function Cards({title, subtitle, children }) {
   return (
-    <div class="card h-100" >
+    <div class="card h-100 mw-75" >
       <div class="card-body">
         <div class="d-flex ">
           <h6 class="card-subtitle mb-2 text-muted text-uppercase text-left">{subtitle}</h6>

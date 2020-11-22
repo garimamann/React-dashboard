@@ -8,7 +8,7 @@ function DropDown({name}) {
         {name} 
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-    
+          <a href="#">Item 1</a>    
          
         </div>
       </div>
