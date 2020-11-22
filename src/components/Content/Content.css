@@ -1,0 +1,17 @@
+.main-content{
+    background-color: #F9F8FD;
+  
+}
+
+#button{
+    background-color: #5D77FF;
+    width:8em;
+    height:50em;
+}
+
+.list-group-item,.list-group,.card-list{
+    text-align: left;
+    background-color:white !important;
+    border: none !important;
+    padding-left:0 ;
+}

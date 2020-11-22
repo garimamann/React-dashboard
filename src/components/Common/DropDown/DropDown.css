@@ -1,0 +1,22 @@
+
+a { color: inherit; } 
+
+div.div-dropdown a.nav-link:focus {
+    background: #F0F2FE;
+    color: #5B76FE !important;
+    border-radius: 8px;    
+   
+}
+
+
+
+.div-dropdown{
+    position: relative;
+}
+
+.dropdown-menu{
+    position: absolute;
+  top: 100%; /* Bottom of button */
+  right: 0;
+  
+}
